@@ -11,7 +11,7 @@ Tenho 18 anos, sou de Carauru-PE e um grande amante de jogos, tecnologia e café
 - Estudante de Engenharia da Computação na UFRPE
 - Participante do Curso da Oracle Next Education
 - Atualmente estou estudando JavaScript, Git, Github e HTML
-- 
+
 
           
 
@@ -19,7 +19,7 @@ Tenho 18 anos, sou de Carauru-PE e um grande amante de jogos, tecnologia e café
 
 ## Contatos:
 
-<a href="https://www.linkedin.com/in/abnerbarreto" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:contato@abnerlc4@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/abnerbarreto" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:abnerlc4@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 
 <div>
