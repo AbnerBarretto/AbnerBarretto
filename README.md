@@ -11,7 +11,7 @@ Tenho 18 anos, sou de Carauru-PE e um grande amante de jogos, tecnologia e café
 
 - Estudante de Engenharia da Computação na UFRPE
 - Participante do Curso da Oracle Next Education
-- Atualmente estou estudando JavaScript, Git, Github e HTML
+- Atualmente estou estudando JavaScript, Git, Github, HTML e CSS
 
 
           
