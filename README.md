@@ -1,7 +1,4 @@
-# Abner Barreto
-### Bem vindo ao meu perfil GitHub!
-
-## Sobre Mim 
+# About Me
 Tenho 18 anos, sou de Carauru-PE e um grande amante de jogos, tecnologia e café. Sou entusiasta na área e pretendo aprender bastante ao longo dessa jornada
 
 ## Ferramentas e Tecnologias
