@@ -1,14 +1,14 @@
 # About Me
-Tenho 18 anos, sou de Carauru-PE e um grande amante de jogos, tecnologia e café. Sou entusiasta na área e pretendo aprender bastante ao longo dessa jornada
+I am 18 years old, from Caruaru-PE and a passionate gaming enthusiast, tech lover and coffee fan. I'm new to the field and intend to learn a lot throughout this journey
 
-## Ferramentas e Tecnologias
+## Tools and Technology
 
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"  idth="40" height="40" />
 
-- Estudante de Engenharia da Computação na UFRPE
-- Participante do Curso da Oracle Next Education
-- Atualmente estou estudando JavaScript, Git, Github, HTML e CSS
+- Student of Computer Engineering at UFRPE
+- participating in the Oracle Next Education course
+- Currently, im studying JavaScript, Git, Github, HTML e CSS
 
 
           
