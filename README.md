@@ -8,7 +8,7 @@ I am 18 years old, from Caruaru-PE and a passionate gaming enthusiast, tech love
 
 - Student of Computer Engineering at UFRPE
 - participating in the Oracle Next Education course
-- Currently, I'm studying JavaScript, Git, GitHub, HTML, and CSS.
+- Currently, I'm studying JavaScript, Git, GitHub, HTML, CSS and Java.
 
 
           
