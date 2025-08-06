@@ -1,5 +1,5 @@
 # About Me
-I am 19 years old, from Caruaru-PE and a passionate gaming enthusiast, tech lover and coffee fan. I'm new to the field and intend to learn a lot throughout this journey
+I am a 19 years old, from Caruaru-PE and a passionate gaming enthusiast, tech lover and coffee fan. I'm new to the field and intend to learn a lot throughout this journey
 
 ## Tools and Technology
 
