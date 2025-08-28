@@ -1,43 +1,44 @@
-# About Me
-I am a 19 years old, from Caruaru-PE and a passionate gaming enthusiast, tech lover and coffee fan. I'm new to the field and intend to learn a lot throughout this journey
+# Abner Barreto
 
-## Tools and Technology
+Olá! Sou o Abner, um entusiasta de tecnologia, fã de café e apaixonado por games. Com 19 anos, moro em Caruaru-PE e estou empolgado para crescer e me aprofundar no mundo do desenvolvimento de software.
 
+## Minhas Habilidades
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"  idth="40" height="40" />
-
-- Student of Software Engineering at IFPE
-- participating in the Oracle Next Education course
-- Currently, I'm studying JavaScript, Git, GitHub, HTML, CSS and Java.
-
-
-          
-
-          
-
-## Contatos:
-
-<a href="https://www.linkedin.com/in/abnerbarreto" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:abnerlc4@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-
-<div>
-<a href="https://github.com/AbnerBarretto">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerBarretto&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AbnerBarretto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,py,git,github" />
+  </a>
 </div>
 
+---
 
-<!--
-**AbnerBarretto/AbnerBarretto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Minha Jornada
 
-Here are some ideas to get you started:
+* 🎓 Estudante de Engenharia de Software no **IFPE**.
+* 📚 Participando do programa **Oracle Next Education**.
+* 🔭 Atualmente, estou focado em aprimorar minhas habilidades em **JavaScript**, **Java**, **Git** e **GitHub**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Contatos
+
+<a href="https://www.linkedin.com/in/abnerbarreto" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:abnerlc4@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
+
+---
+
+### Atividade no GitHub
+
+<div align="center">
+  <a href="https://github.com/AbnerBarretto">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerBarretto&layout=compact&langs_count=7&theme=aura_dark&hide_border=true&title_color=A78BFA&text_color=BAE6FD" alt="Top Languages AbnerBarretto"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AbnerBarretto&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=A78BFA&text_color=BAE6FD&icon_color=60A5FA" alt="GitHub Stats AbnerBarretto"/>
+    <img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbnerBarretto&theme=aura_dark&hide_border=true&dates=FFFFFF&ring=A78BFA&fire=A78BFA&side_main=BAE6FD&side_item=BAE6FD&currstreak=94A3B8&stroke=A78BFA&background=0F172A" alt="GitHub Streak AbnerBarretto"/>
+  </a>
+</div>
+
+<br>
+
+### Contribuições
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=AbnerBarretto&title_color=A78BFA&text_color=BAE6FD&icon_color=60A5FA&bg_color=0F172A&hide_border=true" alt="GitHub Contributions"/>
+</div>
