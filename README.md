@@ -1,6 +1,6 @@
 # Abner Barreto
 
-Olá! Sou o Abner, um entusiasta de tecnologia, fã de café e apaixonado por games. Com 19 anos, moro em Caruaru-PE e estou empolgado para crescer e me aprofundar no mundo do desenvolvimento de software.
+Olá! Me chamo Abner, tenho 19 anos e sou de Caruaru-PE. Atualmente, estou focado em me aprimorar no desenvolvimento de software. Tenho interesse em tecnologia, games e café.
 
 ## Minhas Habilidades
 
