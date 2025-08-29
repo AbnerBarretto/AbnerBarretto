@@ -37,8 +37,3 @@ Olá! Me chamo Abner, tenho 19 anos e sou de Caruaru-PE. Atualmente, estou focad
 </div>
 
 <br>
-
-### Contribuições
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AbnerBarretto&title_color=A78BFA&text_color=BAE6FD&icon_color=60A5FA&bg_color=0F172A&hide_border=true" alt="GitHub Contributions"/>
-</div>
