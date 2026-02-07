@@ -8,62 +8,37 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+%7C+Python;PostgreSQL;Building+efficient+and+scalable+solutions;Always+learning+something+new!" alt="Typing SVG" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abnerbarreto)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abnerlc4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abnerbarreto)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abnerlc4@gmail.com)
 
 </div>
 
 ---
 
-## Sobre Mim
+## About Me
 
-Desenvolvedor backend com foco em construir soluções eficientes e escaláveis. Atualmente trabalho principalmente com **Java** e **Spring Boot** para desenvolver APIs REST robustas e bem estruturadas. 
+Backend developer focused on building efficient and scalable solutions. Currently, I work primarily with **Java** and **Spring Boot** to develop robust and well-structured REST APIs.
 
-Tenho experiência com bancos de dados relacionais (PostgreSQL), versionamento com Git, e conhecimento em Oracle Cloud Infrastructure. Gosto de trabalhar com Linux, otimizar queries SQL e sempre busco escrever código limpo e de fácil manutenção.
+I have experience with relational databases (PostgreSQL), version control with Git, and knowledge of **Oracle Cloud Infrastructure (OCI)**. I enjoy working with **Linux**, optimizing SQL queries, and I'm always striving to write clean, maintainable code.
 
-Quando não estou codando, você pode me encontrar jogando, tomando café ou explorando novas tecnologias.
-
----
-
-## Destaques
-
-🥇 **Campeão HACKATHON Moura 2025** — 1º lugar com o projeto *Grupo Vigil*  
-☁️ **Oracle Cloud Infrastructure Foundations** — Certificado  
-🎓 **Engenharia de Software** — IFPE (em andamento)
+When I'm not coding, you can find me gaming, drinking coffee, or exploring new technologies.
 
 ---
 
-## Stack Tecnológica
+## Highlights
 
-**Backend & Linguagens**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Banco de Dados**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Ferramentas & Infraestrutura**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+* 🏆 **HACKATHON Moura 2025 Champion** — 1st place with the *Grupo Vigil* project
+* ☁️ **Oracle Cloud Infrastructure Foundations** — Certified
+* 🎓 **Software Engineering** — IFPE (In progress)
 
 ---
 
-## GitHub Stats
+## Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbnerBarretto&theme=default&hide_border=true&background=FFFFFF&ring=6366F1&fire=6366F1&currStreakLabel=374151" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AbnerBarretto&layout=compact&langs_count=7&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1F2937&text_color=374151"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,py,js,postgres,docker,git,github,linux" />
+  </a>
 </div>
 
 ---
